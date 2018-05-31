@@ -344,3 +344,9 @@ private func assertShowMissedState(_ viewModel: EventViewModel, file: StaticStri
 * Manually testing edge cases often takes a long time to setup and perform, and those actions must be done every time you want to test them, automated edge case tests only need to be setup once and can be run over and over
 * Testing forces you to write maintainable code because it is generally harder to test poorly designed code
 * Good tests are effective documentation making it easier to introduce new developers to a project
+
+## Additional Resources
+
+* https://github.com/IntrepidPursuits/sherpa/blob/master/ios/ios_testing_references.md
+* https://medium.com/@hesham.salman/the-ios-testing-manifesto-e1bc821cc4c3
+* https://nsscreencast.com/series/13-testing-ios-applications
